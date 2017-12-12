@@ -174,3 +174,8 @@ footer {
 	font-size: 15px;
 	font-style: italic;
 }
+
+#footer_color p
+{
+	color: #ffa71e;
+}
